@@ -1,0 +1,43 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+Console.ReadLine();
+Console.WriteLine();
+
+string again = "a";
+while (again == "a")
+{
+    Console.Clear();
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("------------- Výpis číselné řady -------------");
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("------------- Anežka Husáková -------------");
+    Console.WriteLine("------------------ 2.10. ------------------");
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine("---------------------------------------------");
+    Console.WriteLine();
+
+
+
+    //vstup hodnot do programu, ale špatně řešený
+    // Console.Write("Zadejte první číslo řady: ");
+    // int first = int.Parse(Console.ReadLine());
+
+    //vstup hodnot do programu, řešen lépe
+    Console.WriteLine("Zadejte první číslo řady: ");
+    int first;
+    while (!int.TryParse(Console.ReadLine(), out first))
+    {
+        Console.WriteLine("Nezadali jste celé číslo, zadejte první číslo znovu");
+    }
+    //vykřičník = negace
+
+
+
+        Console.WriteLine();
+Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+again = Console.ReadLine();
+
+
+}
+
