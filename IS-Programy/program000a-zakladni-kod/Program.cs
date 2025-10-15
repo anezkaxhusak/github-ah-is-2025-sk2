@@ -7,7 +7,7 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************ Anežka Husáková ***************");
-    Console.WriteLine("************** . . . *******************");
+    Console.WriteLine("************** datum *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
