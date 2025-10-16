@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IS-Programy", "IS-Programy"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program001-vypis-rady", "IS-Programy\program001-vypis-rady\program001-vypis-rady.csproj", "{820AB51E-B7A1-46EF-BD96-DD1F984988F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program002a-soucet-cifer", "IS-Programy\program002a-soucet-cifer\program002a-soucet-cifer.csproj", "{36865893-FFD3-43C1-AE60-4869B7F375B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{820AB51E-B7A1-46EF-BD96-DD1F984988F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820AB51E-B7A1-46EF-BD96-DD1F984988F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820AB51E-B7A1-46EF-BD96-DD1F984988F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36865893-FFD3-43C1-AE60-4869B7F375B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36865893-FFD3-43C1-AE60-4869B7F375B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36865893-FFD3-43C1-AE60-4869B7F375B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36865893-FFD3-43C1-AE60-4869B7F375B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{820AB51E-B7A1-46EF-BD96-DD1F984988F4} = {37678225-7186-4A70-B17E-FA541849E25E}
+		{36865893-FFD3-43C1-AE60-4869B7F375B9} = {37678225-7186-4A70-B17E-FA541849E25E}
 	EndGlobalSection
 EndGlobal

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anezk\\Documents\\TUL\\C#New\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\Users\\anezk\\Documents\\TUL\\helpmefr\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\Users\\anezk\\Documents\\TUL\\C#New\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectPath": "C:\\Users\\anezk\\Documents\\TUL\\helpmefr\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "packagesPath": "C:\\Users\\anezk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anezk\\Documents\\TUL\\C#New\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "C:\\Users\\anezk\\Documents\\TUL\\helpmefr\\IS-ah-2025\\github-ah-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
