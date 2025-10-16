@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\refint\program002a-soucet-cifer.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\ref\program002a-soucet-cifer.dll
