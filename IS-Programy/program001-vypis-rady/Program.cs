@@ -56,6 +56,20 @@ while (again == "a")
     Console.WriteLine("První číslo: {0}; poslední číslo: {1}; difernce:{2}", first, last, step);
     Console.WriteLine("===============================");
 
+    //výpis číslené řady
+
+    Console.WriteLine();
+    Console.WriteLine("===============================");
+    Console.WriteLine("Výpis číselné řady");
+    Console.WriteLine("===============================");
+   // Console.WriteLine();
+
+    int current = first;
+    while (current <= last) { //dokud
+        Console.WriteLine(current);
+        current = current + step; //přičtení diference. důelžitá priorita operátorů, ' = ' má menší prioritu než ' + '. Nejdříve se provede pravá strana
+
+    }
 
 
     Console.WriteLine();
