@@ -40,14 +40,26 @@ while (again == "a")
     int step;
     while (!int.TryParse(Console.ReadLine(), out step))
     {
-         Console.WriteLine("Nezadali jste celé číslo, zadejte diferenci znovu");
-     }
+        Console.WriteLine("Nezadali jste celé číslo, zadejte diferenci znovu");
+    }
 
 
-        Console.WriteLine();
-Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-again = Console.ReadLine();
+
+    //Výstup zadaných hodnot
+    Console.WriteLine();
+    Console.WriteLine("===============================");
+    Console.WriteLine("Zadali jste tyto hodnoty : ");
+    Console.WriteLine("První číslo řady: {0}", first);
+    Console.WriteLine("Poslední číslo řady: {0}", last);
+    Console.WriteLine("Diference : {0}", step);
+    Console.WriteLine("===============================");
+    Console.WriteLine("První číslo: {0}; poslední číslo: {1}; difernce:{2}", first, last, step);
+    Console.WriteLine("===============================");
 
 
+
+    Console.WriteLine();
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+    again = Console.ReadLine();
 }
 
