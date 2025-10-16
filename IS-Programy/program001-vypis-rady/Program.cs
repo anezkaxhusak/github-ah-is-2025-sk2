@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.ReadLine();
 Console.WriteLine();
 
 string again = "a";
@@ -31,7 +29,19 @@ while (again == "a")
         Console.WriteLine("Nezadali jste celé číslo, zadejte první číslo znovu");
     }
     //vykřičník = negace
+    Console.WriteLine("Zadejte poslední číslo řady: ");
+    int last;
+    while (!int.TryParse(Console.ReadLine(), out last))
+    {
+        Console.WriteLine("Nezadali jste celé číslo, zadejte poslední číslo řady znovu");
+    }
 
+    Console.WriteLine("Zadejte diferenci (celé číslo) ");
+    int step;
+    while (!int.TryParse(Console.ReadLine(), out step))
+    {
+         Console.WriteLine("Nezadali jste celé číslo, zadejte diferenci znovu");
+     }
 
 
         Console.WriteLine();
