@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("*********** Název programu *************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************ Anežka Husáková ***************");
