@@ -56,6 +56,20 @@ while (again == "a")
     Console.WriteLine("");
     Console.WriteLine("");
 
+    Console.WriteLine("Druhý způsob" );
+    Console.WriteLine("Zadejte celé číslo: ");
+    string vstup = Console.ReadLine();
+
+    string cislo = vstup.Replace("-", "");
+    int suma2 = 0;
+
+    foreach (char c in cislo)
+    {
+        int cifra = c - '0';
+        suma2 += cifra;
+    }
+    Console.WriteLine($"Ciferný součet čísla {vstup} je {suma2}");
+    
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
