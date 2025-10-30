@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\refint\program004a-obdelnik.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\ref\program004a-obdelnik.dll
