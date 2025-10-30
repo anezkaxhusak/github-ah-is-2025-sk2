@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\refint\progran003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\progran003b-nejvetsi-ze-tri-cisel.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\progran003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\ref\progran003b-nejvetsi-ze-tri-cisel.dll
