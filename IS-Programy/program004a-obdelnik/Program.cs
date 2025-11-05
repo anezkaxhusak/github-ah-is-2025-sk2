@@ -31,14 +31,15 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte výšku obdélníku znovu: ");
     }
 
-    for (int i = 1; i <= height ; i++)
+    for (int i = 1; i <= height ; i++){
         for (int j = 1; j <= width; j++)
         {
             Console.Write("* ");
-        System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(400));
+        System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(300));
         }
+    
     Console.WriteLine();
-
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
