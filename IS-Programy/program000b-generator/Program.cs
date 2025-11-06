@@ -50,54 +50,22 @@ while (again == "a")
     //příprava pro využití třídy Random
     Random myRandNumb = new Random();
     //Random myRandNumb = new Random(15); stejný vstup --> stejné výsledky
-
-    //kladná, záporná nebo nuly
-    int negativeNum = 0;
-    int positiveNum = 0;
-    int zeros = 0;
-
-    // sudá nebo lichá
-
-    int evenNum = 0;
-    int oddNum = 0;
-
+    
 
     Console.WriteLine();
     Console.WriteLine("Náhodná čísla: ");
     for (int i = 0; i < n; i++)
-
+    
     {
-        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound + 1);
-        Console.Write("{0};", myRandNumbs[i]);
+        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
+        Console.Write("{0};", myRandNumbs [i]);
 
-        if (myRandNumbs[i] > 0)
-            positiveNum++;
-        else if (myRandNumbs[i] < 0)
-            negativeNum++;
-        else zeros++;
 
-        if (myRandNumbs[i] % 2 == 0)
-            evenNum++;
-        else oddNum++;
     }
-
-    Console.WriteLine();
-    Console.WriteLine("============================================");
-    Console.WriteLine("Počet kladných čísel : {0} ", positiveNum);
-    Console.WriteLine("Počet záporných čísel : {0} ", negativeNum);
-    Console.WriteLine("Počet nul : {0} ", zeros);
-    Console.WriteLine("============================================");
-    Console.WriteLine();
-    Console.WriteLine("============================================");
-    Console.WriteLine("Počet sudých čísel : {0} ", evenNum);
-    Console.WriteLine("Počet záporných čísel : {0} ", oddNum);
-     Console.WriteLine("============================================");
-    Console.WriteLine();
-
+     
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-
     again = Console.ReadLine();
 
 }
