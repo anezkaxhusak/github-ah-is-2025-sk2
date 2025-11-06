@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\bin\Debug\net9.0\program004-obdelnik-oprava.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\bin\Debug\net9.0\program004-obdelnik-oprava.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\bin\Debug\net9.0\program004-obdelnik-oprava.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\bin\Debug\net9.0\program004-obdelnik-oprava.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\bin\Debug\net9.0\program004-obdelnik-oprava.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\refint\program004-obdelnik-oprava.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\program004-obdelnik-oprava.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program004-obdelnik-oprava\obj\Debug\net9.0\ref\program004-obdelnik-oprava.dll
