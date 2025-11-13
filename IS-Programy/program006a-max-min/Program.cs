@@ -50,14 +50,48 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Náhodná čísla: ");
     for (int i = 0; i < n; i++)
-    
+
     {
-        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
-        Console.Write("{0};", myRandNumbs [i]);
+        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound + 1);
+        Console.Write("{0};", myRandNumbs[i]);
 
 
     }
-     
+
+
+    // Hledání pozice maxima a pozice minima
+
+    int max = myRandNumbs[0];
+    int min = myRandNumbs[0];
+    int posMax = 0;
+    int posMin = 0;
+
+    // 7; 5; 9;
+    for (int i = 1; i < n; i++) // int i = 1 <-- začínáme od druhého prvku, abychom neporovnávali první prvek s prvním prvkem -> (int i = 0)
+    {
+        if (myRandNumbs[i] > max) //9 > 7
+        {
+            max = myRandNumbs[i];
+            posMax = i;
+        }
+        if (myRandNumbs[i] < min)
+        {
+            min = myRandNumbs[i];
+            posMin = i;
+        }
+    }
+    Console.WriteLine("");
+    Console.WriteLine("==============================");
+    Console.WriteLine($"Maximum : {max}");
+    Console.WriteLine($"Pozice maxima : {posMax}");
+    Console.WriteLine($"Minimum : {min}");
+    Console.WriteLine($"Minimum : {posMin}");
+    Console.WriteLine("==============================");
+    Console.WriteLine("");
+
+
+
+    //vykreslování přesýpacích hodin <--- :(( muset naučit 
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
