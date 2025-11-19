@@ -106,6 +106,7 @@ while (again == "a")
         for (int i = 0; i < max; i++)
         {
             int spaces, stars;
+
             if (i < max / 2) //horní polovina - počet mezer v i-tém řádku
             {
                 spaces = i; // i je na začátku 0
@@ -133,7 +134,7 @@ while (again == "a")
                 Console.Write(" ");
 
             //vykreslení správného počtu hvězdiček
-            for (int st = 0; st < stars; st++) ;
+            for (int st = 0; st < stars; st++) 
                 Console.Write("*");
 
             Console.WriteLine();
