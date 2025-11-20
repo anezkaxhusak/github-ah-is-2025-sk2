@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b7e0f356895e85b112d3f99f4c42a90c26ccb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e1363a61569af0f7e9398e1c34dd91b2372a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
