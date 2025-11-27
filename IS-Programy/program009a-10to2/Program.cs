@@ -17,11 +17,11 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     // Vstup hodnoty do programu, řešený lépe
-    Console.Write("Zadejte první číslo řady (celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first))
+    Console.Write("Zadejte desítkové číslo(přirozené číslo): ");
+    uint number10;
+    while (!uint.TryParse(Console.ReadLine(), out number10))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+        Console.Write("Nezadali jste přirozené číslo. Zadejte desítkové číslo znovu: ");
     }
 
 

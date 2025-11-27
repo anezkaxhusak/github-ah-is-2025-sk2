@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\refint\program008-array-reversing.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\ref\program008-array-reversing.dll
