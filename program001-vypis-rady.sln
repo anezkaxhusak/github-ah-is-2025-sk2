@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program006a-max-min", "IS-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program007a-bubble-sort", "IS-Programy\program007a-bubble-sort\program007a-bubble-sort.csproj", "{FE768450-8F38-43D7-A47B-189EEA747EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program007b-bubble-sort", "IS-Programy\program007b-bubble-sort\program007b-bubble-sort.csproj", "{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{FE768450-8F38-43D7-A47B-189EEA747EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE768450-8F38-43D7-A47B-189EEA747EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE768450-8F38-43D7-A47B-189EEA747EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{820AB51E-B7A1-46EF-BD96-DD1F984988F4} = {37678225-7186-4A70-B17E-FA541849E25E}
@@ -79,5 +85,6 @@ Global
 		{D161D3EC-2CCF-4C78-B603-A8F142413C05} = {37678225-7186-4A70-B17E-FA541849E25E}
 		{13952AE1-7574-4947-BBBA-254349569819} = {37678225-7186-4A70-B17E-FA541849E25E}
 		{FE768450-8F38-43D7-A47B-189EEA747EBF} = {37678225-7186-4A70-B17E-FA541849E25E}
+		{EE7CC9CF-AAE9-4DEA-BFB9-378F1DD40B1A} = {37678225-7186-4A70-B17E-FA541849E25E}
 	EndGlobalSection
 EndGlobal
