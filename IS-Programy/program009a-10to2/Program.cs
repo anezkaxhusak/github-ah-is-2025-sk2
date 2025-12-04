@@ -24,11 +24,27 @@ while (again == "a")
         Console.Write("Nezadali jste přirozené číslo. Zadejte desítkové číslo znovu: ");
     }
 
+    uint[] myArray = new uint[32];
+    uint backupNumber10 = number10;
+    uint zbytek;
 
+    uint i;
+    for(i = 0; number10 > 0; i++){
+        zbytek = number10 % 2;
+        number10 = (number10-zbytek)/2;
+        myArray[i] = zbytek;
 
+    Console.WriteLine("Celá část: {0}; Zbytek:{1} ", number10, zbytek);
 
+    
 
+    Console.Write("Desítkové číslo {0} ve dvojkové soustavě = ",backupNumber10);
+    for (uint j = i-1; j >= zbytek; j--)
+    {
+        Console.Write ("{0}", myArray[j] );
+    }
 
+}
 
 
     Console.WriteLine();
