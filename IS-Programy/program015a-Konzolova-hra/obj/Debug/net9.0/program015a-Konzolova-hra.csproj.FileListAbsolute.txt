@@ -1,0 +1,15 @@
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.exe
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.deps.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.runtimeconfig.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfoInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfo.cs
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.csproj.CoreCompileInputs.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.sourcelink.json
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\refint\program015a-Konzolova-hra.dll
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.genruntimeconfig.cache
+C:\Users\anezk\Documents\TUL\helpmefr\IS-ah-2025\github-ah-is-2025-sk2\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\ref\program015a-Konzolova-hra.dll
